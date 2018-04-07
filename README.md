@@ -1,13 +1,19 @@
 # LivelyLemurs
 SEP Project
 
+---
+
 Known Issues:
 
-Standalone ranger generates an error message about textures | Solved on my end, will upload at some point
+Standalone ranger generates an error message about textures | Solved on my end, pending upload
 
 Ranger kicks back when firing | Pending fix
 
 Ranger sometimes slides during firing animation | Pending fix
+
+Turret draws agro from base + 80z which is wrong for rotated turrets | Fixed on my side, pending upload
+
+---
 
 How to set this up on a fresh project:
 
@@ -33,6 +39,8 @@ How to set this up on a fresh project:
 
 10. Pull desired STK_Char, RNG_Char and FLR_Char into map
 
+---
+
 Notes:
 
 TopDownCharacter included uses an int variable "Health" for health and a CheckHP event is called when AI deal damage to it, has functionality to deal damage to nearby AI by pressing F, useful for testing
@@ -48,6 +56,8 @@ Ranger also stays at a distance and fires shots between movements
 Projectiles are medium sized and slow, allowing for many on screen to be dodged if necessary.
 
 Material files are taken from the GamesTextures Material Pack and the Infinity Blade: Adversaries from the Unreal asset store, they have been packaged with the AI and should work standalone.
+
+---
 
 Turret Added:
 
