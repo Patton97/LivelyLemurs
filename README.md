@@ -47,7 +47,7 @@ Ranger also stays at a distance and fires shots between movements
 
 Projectiles are medium sized and slow, allowing for many on screen to be dodged if necessary.
 
-Material files are taken from the GamesTextures Material Pack from the Unreal asset store, they have been packaged with the AI and should work standalone.
+Material files are taken from the GamesTextures Material Pack and the Infinity Blade: Adversaries from the Unreal asset store, they have been packaged with the AI and should work standalone.
 
 Turret Added:
 
