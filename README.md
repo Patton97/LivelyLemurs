@@ -40,3 +40,7 @@ Ranger also stays at a distance and fires shots between movements
 Projectiles are medium sized and slow, allowing for many on screen to be dodged if necessary.
 
 Material files are taken from the GamesTextures Material Pack from the Unreal asset store, they have been packaged with the AI and should work standalone.
+
+Turret Added:
+
+Turret uses starter content materials for head and base so make sure that's included, otherwise should work fine. Requires projectile from the ranger class and the aforementioned projectile Object Type and Preset in collision.
