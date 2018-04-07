@@ -1,6 +1,14 @@
 # LivelyLemurs
 SEP Project
 
+Known Issues:
+
+Standalone ranger generates an error message about textures | Solved on my end, will upload at some point
+
+Ranger kicks back when firing | Pending fix
+
+Ranger sometimes slides during firing animation | Pending fix
+
 How to set this up on a fresh project:
 
 1.Open Project settings
