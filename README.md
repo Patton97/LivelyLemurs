@@ -1,9 +1,9 @@
 # LivelyLemurs
 SEP Project
 ---
-15/04|Luke - Added Electric gate
-Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level
-Otherwise should plug&play, though may need adapting towards different topdowncharacter for now 
+15/04|Luke - Added Electric gate  
+Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level  
+Otherwise should plug&play, though may need adapting towards different topdowncharacter for now   
 
 ---
 08/04|Luke - Added Destructible wall  
