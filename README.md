@@ -1,10 +1,14 @@
 # LivelyLemurs
 SEP Project
 
+---  
+16/04|Luke - Added Lava  
+Should plug and play, again player damage part is currently based on my Topdowncharacter.  
+
 ---
 15/04|Luke - Added Electric gate  
-Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level  
-Otherwise should plug&play, though may need adapting towards different topdowncharacter for now   
+Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level.  
+Otherwise should plug&play, though may need adapting towards different topdowncharacter for now.   
 
 ---
 08/04|Luke - Added Destructible wall  
