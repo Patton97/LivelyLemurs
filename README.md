@@ -2,16 +2,25 @@
 SEP Project
 
 ---  
+17/04|Luke- Added Fan  
+Should plug and play
+Folder structure should be Content>TopDownBP>Interaction>Fan  
+Folder structure matters for importing files so make sure it matches or you'll have to rebind textures and mats
+
+---  
 16/04|Luke - Added Lava  
 Should plug and play, again player damage part is currently based on my Topdowncharacter.  
+Folder structure should be Content>TopDownBP>DamageAreas>Lava
 
 ---
 15/04|Luke - Added Electric gate  
 Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level.  
 Otherwise should plug&play, though may need adapting towards different topdowncharacter for now.   
+Folder structure should be Content>TopDownBP>DamageAreas>ElecWall
 
 ---
 08/04|Luke - Added Destructible wall  
+Folder structure should be Content>TopDownBP>Interaction>DestructibleWall
 How to implement:  
 Before moving to project, open plugins and enable Apex destruction.   
 Then open the destructible mesh and click "Fracture mesh" on the top bar.  
