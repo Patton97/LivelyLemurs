@@ -17,7 +17,8 @@ Folder structure should be Content>TopDownBP>DamageAreas>Lava
 15/04|Luke - Added Electric gate  
 Requires MacroVars from my BaseAI folder for the nickel textures on walls, feel free to change to fit level.  
 Otherwise should plug&play, though may need adapting towards different topdowncharacter for now.   
-Folder structure should be Content>TopDownBP>DamageAreas>ElecWall
+Folder structure should be Content>TopDownBP>DamageAreas>ElecWall   
+If lightning material is unbound from the grid, open the blueprint and select all the meshes that are children under the grid component and re-apply the material to them
 
 ---
 08/04|Luke - Added Destructible wall  
