@@ -6,6 +6,7 @@ SEP Project
 Should plug and play
 Folder structure should be Content>TopDownBP>Interaction>Fan  
 Folder structure matters for importing files so make sure it matches or you'll have to rebind textures and mats
+Edited folder Structure in git to support this, should work by just copying the 2 top level folders to TopDownBP
 
 ---  
 16/04|Luke - Added Lava  
