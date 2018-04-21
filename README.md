@@ -1,17 +1,6 @@
 # LivelyLemurs
 SEP Project
 
----
-
-Known Issues:
-
-Standalone ranger generates an error message about textures | Solved on my end, pending upload
-
-Ranger kicks back when firing | Pending fix
-
-Ranger sometimes slides during firing animation | Pending fix
-
-Turret draws agro from base + 80z which is wrong for rotated turrets | Fixed on my side, pending upload
 
 ---
 
