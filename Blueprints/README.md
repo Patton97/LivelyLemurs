@@ -1,0 +1,1 @@
+This is my player blueprint that I used for testing, you only need to download it if you want to adapt some of its AI-facing functions. Don't replace your own TopDownCharacter with it as there are likely to be some bad casts in this version.
