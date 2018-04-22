@@ -1,6 +1,13 @@
 # LivelyLemurs
 SEP Project
 
+---
+22/04|Luke - Various changes
+Lava and electric wall have sound on damagine player  
+Electric wall knocks player back  
+Destructible physics/collision changed to allow walking on in dynamic mesh  
+Added large destructible for end scene (do not un-uniformly scale destructible meshes)  
+
 ---  
 17/04|Luke- Added Fan  
 Should plug and play  
