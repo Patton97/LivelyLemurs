@@ -1,6 +1,6 @@
 # LivelyLemurs
 SEP Project
-
-Notes
+---
+Notes:
 
 The "Gas Emitter" uses the "P_HealthPickup" particle system as an emitter
